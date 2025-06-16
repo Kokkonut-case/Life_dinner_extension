@@ -17,7 +17,7 @@ website:
 
 format:
   html:
-      theme: Slate # browse these here: https://quarto.org/docs/output-formats/html-themes.html
+      theme: Darkly # browse these here: https://quarto.org/docs/output-formats/html-themes.html
       max-width: 1800px # adjust if your plots don't fit or you want more or less whitespace
       toc: true # do you want a table of contents, by default it floats as you scroll
       toc-location: left # where should it be displayed

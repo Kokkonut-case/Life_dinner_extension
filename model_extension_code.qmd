@@ -1,25 +1,50 @@
 ---
 title: "Lives, dinners, rare enemies and outrunning your mates"
-format: html
+editor: source
+execute:
+  warning: false
+  message: false
 ---
 
-## Quarto
+## Tips for making this report
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+I've created a template for this project, which you can fill in as you make progress. Throughout, lookout for light bulb endowed text boxes (e.g. see @tip-library). These contain suggestions for making a neat, reproducible report that others will thank you for later.
 
-## Running Code
+See [here](https://www.markdownguide.org/basic-syntax/) for a comprehensive guide on markdown syntax.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Introduction
+
+In this quarto report, you can document your progress on extending McLean, Herberstein and Kokko's (2024) trophic asymmetry informed life-dinner principle theoretical model. 
+
+You could fill out the rest of this introduction with answers to the following:
+
+- what is the life-dinner principle and where did it originate? 
+
+- what question are you testing?
+
+- what is your _a priori_ expectation for how this will change the results?
+
+## Load neccessary packages
+
+::: {#tip-library .callout-tip}
+## Cross-Referencing a Tip
+
+In the code chunk below, include all the packages you need to generate this report. Putting them all in one place makes it easier for anyone else trying to reproduce your analysis.
+:::
 
 ```{r}
-1 + 1
+# packages go here
 ```
 
-You can add options to executable code like this 
+## Writing math 
 
-```{r}
-#| echo: false
-2 * 2
-```
+Quarto uses the same syntax as latex to formulate equations. For example, I can write 
 
-The `echo: false` option disables the printing of code (only output is displayed).
+$$
+W_\mathrm{A} = \frac{1}{\mu_\mathrm{A} + ap\frac{N_\mathrm{C}}{N_\mathrm{A}}}
+$$ {#eq-prey-fitness}
+
+and reference in-text like so: @eq-prey-fitness describes the lifespan of the average antelope in our simple system...
+
+
+
