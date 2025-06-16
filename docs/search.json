@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "model_extension_code.html",
-    "href": "model_extension_code.html",
-    "title": "Lives, dinners, rare enemies and outrunning your mates",
-    "section": "",
-    "text": "Artist: T. Keaney"
-  },
-  {
     "objectID": "model_extension_code.html#tips-for-making-this-report",
     "href": "model_extension_code.html#tips-for-making-this-report",
     "title": "Lives, dinners, rare enemies and outrunning your mates",
@@ -21,17 +14,17 @@
     "text": "Introduction\nIn this quarto report, you can document your progress on extending McLean, Herberstein and Kokko’s (2024) trophic asymmetry informed life-dinner principle theoretical model.\nYou could fill out the rest of this introduction with answers to the following:\n\nwhat is the life-dinner principle and where did it originate?\nwhat question are you testing?\nwhat is your a priori expectation for how this will change the results?"
   },
   {
-    "objectID": "model_extension_code.html#load-neccessary-packages",
-    "href": "model_extension_code.html#load-neccessary-packages",
+    "objectID": "model_extension_code.html#load-necessary-packages",
+    "href": "model_extension_code.html#load-necessary-packages",
     "title": "Lives, dinners, rare enemies and outrunning your mates",
-    "section": "Load neccessary packages",
-    "text": "Load neccessary packages\n\n\n\n\n\n\nTip 1: Load your packages early\n\n\n\nIn the code chunk below, include all the packages you need to generate this report. Putting them all in one place makes it easier for anyone else trying to reproduce your analysis.\n\n\n\n\nCode\n# packages go here"
+    "section": "Load necessary packages",
+    "text": "Load necessary packages\n\n\n\n\n\n\nTip 1: Load your packages early\n\n\n\nIn the code chunk below, include all the packages you need to generate this report. Putting them all in one place makes it easier for anyone else trying to reproduce your analysis.\n\n\n\n\nCode\n# packages go here"
   },
   {
-    "objectID": "model_extension_code.html#writing-math",
-    "href": "model_extension_code.html#writing-math",
+    "objectID": "model_extension_code.html#the-model",
+    "href": "model_extension_code.html#the-model",
     "title": "Lives, dinners, rare enemies and outrunning your mates",
-    "section": "Writing math",
-    "text": "Writing math\nQuarto uses the same syntax as latex to formulate equations. For example, I can write\n\\[\nW_\\mathrm{A} = \\frac{1}{\\mu_\\mathrm{A} + ap\\frac{N_\\mathrm{C}}{N_\\mathrm{A}}}\n\\tag{1}\\]\nand reference in-text like so: Equation 1 describes the lifespan of the average antelope in our simple system…Writing math in-line is also possible, you just need to surround it with $ e.g. \\(W_\\mathrm{A}\\) is the absolute fitness of the average Antelope in a population that is predated by Cheetah."
+    "section": "The model",
+    "text": "The model\n\n\n\n\n\n\nTip 2: Writing math\n\n\n\nQuarto uses the same syntax as latex to formulate equations. See here for a quick run-down.\nWriting math in-line is also possible, you just need to surround it with $ e.g. \\(W_\\mathrm{A}\\)\n\n\nQuantifying fitness in prey species:\n\\[\nW_\\mathrm{A} = \\frac{1}{\\mu_\\mathrm{A} + ap\\frac{N_\\mathrm{C}}{N_\\mathrm{A}}}\n\\tag{1}\\]\nEquation 1 describes the lifespan of the average antelope (pony) in our simple system…"
   }
 ]

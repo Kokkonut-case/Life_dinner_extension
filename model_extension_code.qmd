@@ -7,7 +7,7 @@ execute:
   message: false
 ---
 
-![Artist: T. Keaney](cheetah_pony.png)
+![](cheetah_pony.png)
 
 ## Tips for making this report
 
@@ -27,7 +27,7 @@ You could fill out the rest of this introduction with answers to the following:
 
 - what is your _a priori_ expectation for how this will change the results?
 
-## Load neccessary packages
+## Load necessary packages
 
 ::: {#tip-library .callout-tip}
 ## Load your packages early
@@ -39,15 +39,23 @@ In the code chunk below, include all the packages you need to generate this repo
 # packages go here
 ```
 
-## Writing math 
+## The model
 
-Quarto uses the same syntax as latex to formulate equations. For example, I can write 
+::: {#tip-math .callout-tip}
+## Writing math
+
+Quarto uses the same syntax as latex to formulate equations. See [here](https://qmd4sci.njtierney.com/math.html) for a quick run-down.
+
+Writing math in-line is also possible, you just need to surround it with \$ e.g. $W_\mathrm{A}$
+:::
+
+Quantifying fitness in prey species:
 
 $$
 W_\mathrm{A} = \frac{1}{\mu_\mathrm{A} + ap\frac{N_\mathrm{C}}{N_\mathrm{A}}}
 $$ {#eq-prey-fitness}
 
-and reference in-text like so: @eq-prey-fitness describes the lifespan of the average antelope in our simple system...Writing math in-line is also possible, you just need to surround it with \$ e.g. $W_\mathrm{A}$ is the absolute fitness of the average Antelope in a population that is predated by Cheetah. 
+@eq-prey-fitness describes the lifespan of the average antelope (pony) in our simple system...
 
 
 
