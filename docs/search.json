@@ -25,6 +25,6 @@
     "href": "model_extension_code.html#the-model",
     "title": "Lives, dinners, rare enemies and outrunning your mates",
     "section": "The model",
-    "text": "The model\n\n\n\n\n\n\nTip 2: Writing math\n\n\n\nQuarto uses the same syntax as latex to formulate equations. See here for a quick run-down.\nWriting math in-line is also possible, you just need to surround it with $ e.g. \\(W_\\mathrm{A}\\)\n\n\nQuantifying fitness in prey species:\n\\[\nW_\\mathrm{A} = \\frac{1}{\\mu_\\mathrm{A} + ap\\frac{N_\\mathrm{C}}{N_\\mathrm{A}}}\n\\tag{1}\\]\nEquation 1 describes the lifespan of the average antelope (pony) in our simple system…"
+    "text": "The model\n\n\n\n\n\n\nTip 2: Writing math\n\n\n\nQuarto uses the same syntax as latex to formulate equations. See here for a quick run-down.\nWriting math in-line is also possible, you just need to surround it with $ e.g. \\(W_\\mathrm{A}\\)\n\n\nThe fitness of the average individual antelope in the population predated by Cheetahs is\n\\[\nW_\\mathrm{A} = \\frac{1}{\\mu_\\mathrm{A} + ap\\frac{N_\\mathrm{C}}{N_\\mathrm{A}}}\n\\tag{1}\\]\nEquation 1 describes the lifespan of the average antelope (pony) in our simple system…\nExpand your thoughts from here."
   }
 ]
