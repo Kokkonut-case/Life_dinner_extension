@@ -7,7 +7,7 @@ execute:
   message: false
 ---
 
-![](cheetah_pony.png)
+![Artist: T. Keaney](cheetah_pony.png)
 
 ## Tips for making this report
 
