@@ -49,7 +49,7 @@ Quarto uses the same syntax as latex to formulate equations. See [here](https://
 Writing math in-line is also possible, you just need to surround it with \$ e.g. $W_\mathrm{A}$
 :::
 
-The fitness of the average individual antelope in the population predated by Cheetahs is
+The fitness of the average individual antelope in the population predated by Cheetah is
 
 $$
 W_\mathrm{A} = \frac{1}{\mu_\mathrm{A} + ap\frac{N_\mathrm{C}}{N_\mathrm{A}}}
