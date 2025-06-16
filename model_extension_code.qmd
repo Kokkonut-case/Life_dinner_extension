@@ -1,10 +1,15 @@
 ---
 title: "Lives, dinners, rare enemies and outrunning your mates"
+author: 
+  - name: Noemi Huber
+  - email: noemihuberprivate@gmail.com
 editor: source
 execute:
   warning: false
   message: false
 ---
+
+![](cheetah_gazelle.avif)
 
 ## Tips for making this report
 

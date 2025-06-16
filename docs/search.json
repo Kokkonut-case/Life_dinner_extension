@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "model_extension_code.html",
-    "href": "model_extension_code.html",
-    "title": "Lives, dinners, rare enemies and outrunning your mates",
-    "section": "",
-    "text": "I’ve created a template for this project, which you can fill in as you make progress. Throughout, lookout for light bulb endowed text boxes (e.g. see Tip 1). These contain suggestions for making a neat, reproducible report that others will thank you for later.\nSee here for a comprehensive guide on markdown syntax."
-  },
-  {
     "objectID": "model_extension_code.html#tips-for-making-this-report",
     "href": "model_extension_code.html#tips-for-making-this-report",
     "title": "Lives, dinners, rare enemies and outrunning your mates",
-    "section": "",
-    "text": "I’ve created a template for this project, which you can fill in as you make progress. Throughout, lookout for light bulb endowed text boxes (e.g. see Tip 1). These contain suggestions for making a neat, reproducible report that others will thank you for later.\nSee here for a comprehensive guide on markdown syntax."
+    "section": "Tips for making this report",
+    "text": "Tips for making this report\nI’ve created a template for this project, which you can fill in as you make progress. Throughout, lookout for light bulb endowed text boxes (e.g. see Tip 1). These contain suggestions for making a neat, reproducible report that others will thank you for later.\nSee here for a comprehensive guide on markdown syntax."
   },
   {
     "objectID": "model_extension_code.html#introduction",
