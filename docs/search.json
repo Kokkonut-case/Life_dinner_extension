@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "model_extension_code.html",
+    "href": "model_extension_code.html",
+    "title": "Lives, dinners, rare enemies and outrunning your mates",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "model_extension_code.html#quarto",
+    "href": "model_extension_code.html#quarto",
+    "title": "Lives, dinners, rare enemies and outrunning your mates",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "model_extension_code.html#running-code",
+    "href": "model_extension_code.html#running-code",
+    "title": "Lives, dinners, rare enemies and outrunning your mates",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\nCode\n1 + 1\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  }
+]
