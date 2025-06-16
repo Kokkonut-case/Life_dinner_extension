@@ -7,7 +7,7 @@ execute:
   message: false
 ---
 
-![](cheetah_gazelle.avif)
+![](cheetah_pony.png)
 
 ## Tips for making this report
 
