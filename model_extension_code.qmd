@@ -1,8 +1,6 @@
 ---
 title: "Lives, dinners, rare enemies and outrunning your mates"
-author: 
-  - name: Noemi Huber
-  - email: noemihuberprivate@gmail.com
+author: "Noemi Huber"
 editor: source
 execute:
   warning: false
