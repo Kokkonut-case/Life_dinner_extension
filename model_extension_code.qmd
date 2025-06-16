@@ -27,7 +27,7 @@ You could fill out the rest of this introduction with answers to the following:
 ## Load neccessary packages
 
 ::: {#tip-library .callout-tip}
-## Cross-Referencing a Tip
+## Load your packages early
 
 In the code chunk below, include all the packages you need to generate this report. Putting them all in one place makes it easier for anyone else trying to reproduce your analysis.
 :::
@@ -44,7 +44,7 @@ $$
 W_\mathrm{A} = \frac{1}{\mu_\mathrm{A} + ap\frac{N_\mathrm{C}}{N_\mathrm{A}}}
 $$ {#eq-prey-fitness}
 
-and reference in-text like so: @eq-prey-fitness describes the lifespan of the average antelope in our simple system...
+and reference in-text like so: @eq-prey-fitness describes the lifespan of the average antelope in our simple system...Writing math in-line is also possible, you just need to surround it with \$ e.g. $W_\mathrm{A}$ is the absolute fitness of the average Antelope in a population that is predated by Cheetah. 
 
 
 
